@@ -1,0 +1,31 @@
+{
+  "name": "Kopi Kenangan Senja",
+  "short_name": "Kopi Kenangan",
+  "description": "Nikmati secangkir kopi dengan kenangan di senja hari",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff9800",
+  "icons": [
+    {
+      "src": "/img/menu/1.jpg",
+      "type": "image/jpg",
+      "sizes": "300x300"
+    },
+    {
+      "src": "/img/products/1.jpg",
+      "type": "image/jpg",
+      "sizes": "800x800"
+    },
+    {
+      "src": "/img/header-bg.jpeg",
+      "type": "image/jpeg",
+      "sizes": "1920x1260"
+    },
+    {
+      "src": "/img/tentang-kami.jpg",
+      "type": "image/jpg",
+      "sizes": "640x427"
+    }
+  ]
+}
